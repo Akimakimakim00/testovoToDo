@@ -1,0 +1,29 @@
+.input {
+    width: 150px;
+    height: 20px;
+}
+.button {
+    width: 80px;
+    height: 25px;
+    border: none;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.buttonRed {
+    width: 60px;
+    height: 25px;
+    border: none;
+    background-color: crimson;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: azure;
+}
+
+.item {
+    list-style: none;
+    margin-top: 10px;
+}
+
+
